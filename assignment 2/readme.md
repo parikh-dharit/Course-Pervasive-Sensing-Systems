@@ -1,5 +1,7 @@
 IT 574
+
 Exercise II
+
 Exercise 1. Load Acc_sensorData
 a) Divide the data into frames of 50 samples each: Show a plot indicating the window
 b) Divide the data into frames of 1second duration each: Show a plot indicating the window
